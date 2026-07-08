@@ -26,3 +26,9 @@ The Contact Page includes a user-friendly contact form where visitors can enter 
 The entire website has been styled using CSS to provide a clean, professional, and responsive interface. Features such as hover effects, responsive layouts, attractive buttons, course cards, navigation menus, and consistent color schemes make the website visually appealing across desktops, tablets, and mobile devices.
 
 Overall, this project successfully demonstrates the implementation of essential front-end development concepts, including HTML page structure, CSS styling, responsive web design, JavaScript interactivity, video embedding, progress tracking, multi-page navigation, and form handling. It serves as an excellent beginner-level project that simulates the basic functionality of a real-world e-learning platform while strengthening practical web development skills.
+
+#OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/80e040ad-882b-4b21-b419-24c2731b89b4" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/21afe6b4-c035-405e-bced-2e6a06bcca8a" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/eb170038-03db-4047-a3e5-54c6786d68ef" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/10d2901f-ff43-40bf-ad70-5bcbba63f7a7" />
